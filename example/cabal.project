@@ -76,6 +76,7 @@ source-repository-package
     type: git
     location: https://github.com/input-output-hk/plutus-apps
     tag: 97b4c1da03faf9bc35f348802fb7927231657e75
+    --sha256:5nUObHyjxhLsKEk9YstGZVTQdwBbCT08p3j4tg2G+Hk=
     subdir:
       cardano-streaming
       doc
@@ -104,6 +105,7 @@ source-repository-package
     type: git
     location: https://github.com/input-output-hk/cardano-wallet
     tag: 18a931648550246695c790578d4a55ee2f10463e
+    --sha256: 
     subdir:
       lib/cli
       lib/core
